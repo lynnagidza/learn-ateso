@@ -7,11 +7,12 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                blush: "#FEECEB",
-                warmBrown: "#85586F",
+                blush: "#fdf3f3",
+                warmBrown: "#8b5e3c",
                 butter: "#FFF7D4",
+                butterYellow: "#ffedb2",
                 teaGreen: "#D5F0C1",
-                cozyText: "#3E3232",
+                cozyText: "#4b3832",
             },
             fontFamily: {
                 heading: ["Georgia", "serif"],
